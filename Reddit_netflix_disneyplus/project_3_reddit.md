@@ -1,7 +1,7 @@
 
 # Project 3 - Netflix and Disney+ Reddit Webscraping
 
-by Liyena Putri Yusoff
+by Liyena Yusoff
 
 
 ## Background
